@@ -180,7 +180,6 @@ export function makeStyles(params) {
     },
 
     disabledText: {
-      fontSize: 14*scaler,
       color: '#BBBBBB',
       alignSelf: 'center',
       justifyContent: 'center'
